@@ -1,0 +1,4 @@
+# Cordova Global
+plugins/
+platforms/
+node_modules/
